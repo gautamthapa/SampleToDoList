@@ -18,7 +18,7 @@ Delete the data.
 ![screenshot_1510391502](https://user-images.githubusercontent.com/9721321/32688066-d5337a78-c6ef-11e7-9d12-dabcd9517f8c.png)
 
 ## Developed by:
-Gautam
+Gautam Thapa
 
 ## License
 The MIT License (MIT)
